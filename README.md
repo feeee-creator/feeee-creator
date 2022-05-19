@@ -18,7 +18,7 @@
       align="center" 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="felipe-silva-creator" 
-      height="40" 
+      height="30" 
       width="100" 
     />
   </a>
