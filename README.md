@@ -42,11 +42,6 @@
   </a>
 </p>
 
-<p align="center">
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelpe)](https://github.com/feelpe/github-readme-stats)
-</p>
-
 <h1 align="left">🛠️ Languages and Tools:</h1>
 
 <h3 align="left">🖥️ Languages:</h3>
@@ -230,3 +225,9 @@
     /> 
   </a> 
 </p>
+
+[(https://github-readme-stats.vercel.app/api?username=feelpe)](https://github.com/feelpe/github-readme-stats)
+
+[(https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&theme=blue-green)](https://github.com/feelpe/github-readme-stats)
+
+[(https://starchart.cc/feelpe/portfolio.svg)](https://github.com/feelpe/github-readme-stats)
