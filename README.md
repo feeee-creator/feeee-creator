@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/felipe-creator" target="_blank">
     <img 
       align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="felipe-silva-creator" 
       height="30" 
       width="40" 
@@ -25,7 +25,7 @@
   <a href="https://discord.gg/#2327" target="_blank">
     <img 
       align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
+      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
       alt="#2327" 
       height="30" 
       width="40" 
@@ -34,7 +34,7 @@
   <a href="https://stackoverflow.com/users/18897575" target="_blank">
     <img 
       align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
+      src="https://aleen42.github.io/badges/src/stackoverflow.svg" 
       alt="18897575" 
       height="30" 
       width="40" 
@@ -226,4 +226,4 @@
   </a> 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelpe&count_private=true&show_icons=true&theme=panda)](https://github.com/feelpe/feelpe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&layout=compact&count_private=true&show_icons=true&theme=panda)](https://github.com/feelpe/feelpe)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelpe&count_private=true&show_icons=true&theme=panda)](https://github.com/feelpe/feelpe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&show_icons=true&theme=panda)](https://github.com/feelpe/feelpe)
