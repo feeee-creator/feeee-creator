@@ -18,8 +18,8 @@
       align="center" 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="felipe-silva-creator" 
-      height="30" 
-      width="40" 
+      height="40" 
+      width="100" 
     />
   </a>
   <a href="https://discord.gg/#2327" target="_blank">
