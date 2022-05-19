@@ -13,7 +13,7 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/felipe-creator" target="_blank">
+  <a href="https://linkedin.com/in/felipe-creator" target="_blank" align="left">
     <img 
       align="center" 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -22,7 +22,7 @@
       height="40" 
     />
   </a>
-  <a href="https://discord.gg/#2327" target="_blank">
+  <a href="https://discord.gg/#2327" target="_blank" align="left">
     <img 
       align="center" 
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
@@ -31,7 +31,7 @@
       height="40" 
     />
   </a>
-  <a href="https://stackoverflow.com/users/18897575" target="_blank">
+  <a href="https://stackoverflow.com/users/18897575" target="_blank" align="left">
     <img 
       align="center" 
       src="https://aleen42.github.io/badges/src/stackoverflow.svg" 
