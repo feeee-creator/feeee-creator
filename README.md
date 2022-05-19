@@ -11,8 +11,6 @@
 
 - 🙋‍♂️ Fun fact **I like games and want to make one someday**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelpe)](https://github.com/feelpe/github-readme-stats)
-
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/felipe-creator" target="_blank">
@@ -42,6 +40,10 @@
       width="40" 
     />
   </a>
+</p>
+
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelpe)](https://github.com/feelpe/github-readme-stats)
 </p>
 
 <h1 align="left">🛠️ Languages and Tools:</h1>
