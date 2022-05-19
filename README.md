@@ -226,8 +226,8 @@
   </a> 
 </p>
 
-[(https://github-readme-stats.vercel.app/api?username=feelpe)](https://github.com/feelpe/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=feelpe)](https://github.com/feelpe/github-readme-stats)
 
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&theme=blue-green)](https://github.com/feelpe/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&theme=blue-green)](https://github.com/feelpe/github-readme-stats)
 
-[(https://starchart.cc/feelpe/portfolio.svg)](https://github.com/feelpe/github-readme-stats)
+[!(https://starchart.cc/feelpe/portfolio.svg)](https://github.com/feelpe/github-readme-stats)
