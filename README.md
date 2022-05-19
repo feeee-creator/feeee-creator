@@ -19,7 +19,7 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="felipe-silva-creator" 
       height="30" 
-      width="100" 
+      width="90" 
     />
   </a>
   <a href="https://discord.gg/#2327" target="_blank">
@@ -28,7 +28,7 @@
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
       alt="#2327" 
       height="30" 
-      width="40" 
+      width="90" 
     />
   </a>
   <a href="https://stackoverflow.com/users/18897575" target="_blank">
@@ -37,7 +37,7 @@
       src="https://aleen42.github.io/badges/src/stackoverflow.svg" 
       alt="18897575" 
       height="30" 
-      width="40" 
+      width="90" 
     />
   </a>
 </p>
@@ -48,65 +48,65 @@
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
       alt="javascript" 
       width="40" 
-      height="40"
+      height="90"
     /> 
   </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" 
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
       alt="python" 
       width="40" 
-      height="40"
+      height="90"
     /> 
   </a> 
 </p>
 
 <h3 align="left">🌸 FrontEnd:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
       alt="html5" 
       width="40" 
       height="40"
     /> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
       alt="css3" 
       width="40" 
       height="40"
     /> 
   </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
       alt="react" 
       width="40" 
       height="40"
     /> 
   </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"> 
     <img 
-      src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" 
+      src="https://www.marciobrasil.net.br/wp-content/uploads/2021/01/1_2tmzU7bve-VlTkOMWsk_Hw.jpg" 
       alt="nextjs" 
       width="40" 
       height="40"
     /> 
   </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" 
       alt="bootstrap" 
       width="40" 
       height="40"
     /> 
   </a>
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" 
+  <a href="https://styled-components.com/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" 
       alt="styled-components" 
       width="40" 
       height="40"
@@ -118,7 +118,7 @@
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://cdn-icons-png.flaticon.com/512/919/919825.png" 
+      src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
       alt="nodejs" 
       width="40" 
       height="40"
@@ -126,7 +126,7 @@
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" 
+      src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" 
       alt="express" 
       width="40" 
       height="40"
@@ -134,7 +134,7 @@
   </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
+      src="https://img.shields.io/badge/Nest-%23DD0031.svg?&style=for-the-badge&logo=nest&logoColor=white" 
       alt="nestjs" 
       width="40" 
       height="40"
@@ -142,7 +142,7 @@
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
       alt="typescript" 
       width="40" 
       height="40"
@@ -150,7 +150,7 @@
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+      src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" 
       alt="git" 
       width="40" 
       height="40"
@@ -158,7 +158,7 @@
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" 
+      src="https://img.shields.io/badge/MongoDB-4EA94B" 
       alt="mongodb" 
       width="40" 
       height="40"
@@ -166,7 +166,7 @@
   </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
       alt="postgresql" 
       width="40" 
       height="40"
@@ -174,7 +174,7 @@
   </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+      src="https://img.shields.io/badge/Postman-FC8019?style=for-the-badge&logo=Postman&logoColor=white" 
       alt="postman" 
       width="40" 
       height="40"
