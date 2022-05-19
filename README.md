@@ -226,8 +226,6 @@
   </a> 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelpe)](https://github.com/feelpe/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelpe)](https://github.com/feelpe/feelpe)
 
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&theme=blue-green)](https://github.com/feelpe/github-readme-stats)
-
-[!(https://starchart.cc/feelpe/portfolio.svg)](https://github.com/feelpe/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&theme=blue-green)](https://github.com/feelpe/github-readme-stats)
