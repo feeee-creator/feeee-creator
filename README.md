@@ -226,14 +226,13 @@
   </a> 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelpe&count_private=true&show_icons=true&theme=panda&card_width)](https://github.com/feelpe/feelpe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&show_icons=true&theme=panda)](https://github.com/feelpe/feelpe)
-
 <p align="center">
   <a href="https://github.com/Feelpe/feelpe" target="_blank" rel="noopener noreferrer"> 
     <img 
       src="https://github-readme-stats.vercel.app/api?username=feelpe&count_private=true&show_icons=true&theme=panda"
       alt="user stats" 
       align="center"
+      width="220em"
       height="180em" 
     />
   </a> 
@@ -242,6 +241,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&show_icons=true&theme=panda&layout=compact" 
       alt="repo stats" 
       align="center"
+      width="220em" 
       height="180em" 
     />
   </a> 
