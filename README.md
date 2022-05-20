@@ -232,7 +232,7 @@
       src="https://github-readme-stats.vercel.app/api?username=feelpe&count_private=true&show_icons=true&theme=panda"
       alt="user stats" 
       align="center"
-      width="500em"
+      width="300em"
       height="250em" 
     />
   </a> 
@@ -241,8 +241,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&show_icons=true&theme=panda&layout=compact" 
       alt="repo stats" 
       align="center"
-      width="500em" 
-      height="250em" 
+      width="300em" 
+      height="210em" 
     />
   </a> 
 </p>
