@@ -241,8 +241,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&show_icons=true&theme=panda&layout=compact" 
       alt="repo stats" 
       align="center"
-      width="350em" 
-      height="210em" 
+      width="360em" 
+      height="220em" 
     />
   </a> 
 </p>
