@@ -233,7 +233,7 @@
       alt="user stats" 
       align="center"
       width="400em"
-      height="250em" 
+      height="260em" 
     />
   </a> 
   <a href="https://github.com/Feelpe?tab=repositories" target="_blank" rel="noopener noreferrer"> 
@@ -241,7 +241,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&show_icons=true&theme=panda&layout=compact" 
       alt="repo stats" 
       align="center"
-      width="350em" 
+      width="400em" 
       height="200em" 
     />
   </a> 
