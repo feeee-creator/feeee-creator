@@ -18,7 +18,7 @@
       align="center" 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="felipe-silva-creator" 
-      width="90" 
+      width="110" 
       height="30" 
     />
   </a>
@@ -27,7 +27,7 @@
       align="center" 
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
       alt="#2327" 
-      width="90" 
+      width="110" 
       height="30" 
     />
   </a>
@@ -36,7 +36,7 @@
       align="center" 
       src="https://aleen42.github.io/badges/src/stackoverflow.svg" 
       alt="18897575" 
-      width="130" 
+      width="150" 
       height="30" 
     />
   </a>
@@ -58,7 +58,7 @@
     <img 
       src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
       alt="python" 
-      width="90" 
+      width="100" 
       height="30"
     /> 
   </a> 
@@ -120,7 +120,7 @@
     <img 
       src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
       alt="nodejs" 
-      width="80" 
+      width="100" 
       height="30"
     /> 
   </a> 
@@ -136,7 +136,7 @@
     <img 
       src="https://img.shields.io/badge/Nest.js-F63440?style=for-the-badge&logo=NestJs&logoColor=white" 
       alt="nestjs" 
-      width="80" 
+      width="100" 
       height="30"
     /> 
   </a> 
@@ -144,7 +144,7 @@
     <img 
       src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
       alt="typescript" 
-      width="110" 
+      width="120" 
       height="30"
     /> 
   </a> 
@@ -176,7 +176,7 @@
     <img 
       src="https://img.shields.io/badge/Postman-FC8019?style=for-the-badge&logo=Postman&logoColor=white" 
       alt="postman" 
-      width="90" 
+      width="100" 
       height="30"
     /> 
   </a> 
@@ -212,7 +212,7 @@
     <img 
       src="https://aleen42.github.io/badges/src/illustrator.svg" 
       alt="illustrator" 
-      width="120" 
+      width="130" 
       height="30"
     /> 
   </a> 
@@ -220,7 +220,7 @@
     <img 
       src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" 
       alt="photoshop" 
-      width="130" 
+      width="150" 
       height="30"
     /> 
   </a> 
@@ -232,7 +232,7 @@
       src="https://github-readme-stats.vercel.app/api?username=feelpe&count_private=true&show_icons=true&theme=panda"
       alt="user stats" 
       align="center"
-      width="450em"
+      width="455em"
     />
   </a> 
   <a href="https://github.com/Feelpe?tab=repositories" target="_blank" rel="noopener noreferrer"> 
@@ -240,7 +240,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&show_icons=true&theme=panda&layout=compact" 
       alt="repo stats" 
       align="center"
-      width="380em" 
+      width="375em" 
     />
   </a> 
 </p>
