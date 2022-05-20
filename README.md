@@ -226,6 +226,7 @@
   </a> 
 </p>
 
+<h3 align="left">📊 Stats:</h3>
 <p align="center">
   <a href="https://github.com/Feelpe/feelpe" target="_blank" rel="noopener noreferrer"> 
     <img 
