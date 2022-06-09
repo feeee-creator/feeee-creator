@@ -156,19 +156,27 @@
       height="30"
     /> 
   </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> 
-    <img 
-      src="https://img.shields.io/badge/MongoDB-4EA94B" 
-      alt="mongodb" 
-      width="100" 
-      height="30"
-    /> 
-  </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"> 
     <img 
       src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
       alt="postgresql" 
       width="120" 
+      height="30"
+    /> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> 
+    <img 
+      src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" 
+      alt="mongodb" 
+      width="100" 
+      height="30"
+    /> 
+  </a> 
+  <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer"> 
+    <img 
+      src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" 
+      alt="prisma" 
+      width="100" 
       height="30"
     /> 
   </a> 
@@ -184,10 +192,42 @@
 
 <h3 align="left">📁 Others:</h3>
 <p align="left"> 
+  <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer"> 
+    <img 
+      src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" 
+      alt="eslint" 
+      width="90" 
+      height="30"
+    /> 
+  </a> 
   <a href="https://heroku.com" target="_blank" rel="noopener noreferrer"> 
     <img 
       src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" 
       alt="heroku" 
+      width="90" 
+      height="30"
+    /> 
+  </a> 
+  <a href="https://www.notion.so/" target="_blank" rel="noopener noreferrer"> 
+    <img 
+      src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" 
+      alt="notion" 
+      width="90" 
+      height="30"
+    /> 
+  </a> 
+  <a href="https://trello.com/" target="_blank" rel="noopener noreferrer"> 
+    <img 
+      src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" 
+      alt="trello" 
+      width="90" 
+      height="30"
+    /> 
+  </a> 
+  <a href="https://miro.com/pt/" target="_blank" rel="noopener noreferrer"> 
+    <img 
+      src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" 
+      alt="miro" 
       width="90" 
       height="30"
     /> 
