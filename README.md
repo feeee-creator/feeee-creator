@@ -191,7 +191,7 @@
     <img 
       src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" 
       alt="notion" 
-      height="30"
+      height="30em"
     /> 
   </a> 
   <a href="https://trello.com/" target="_blank"> 
