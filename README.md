@@ -177,42 +177,42 @@
     <img 
       src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" 
       alt="eslint" 
-      height="30em"
+      height="20em"
     /> 
   </a> 
   <a href="https://heroku.com" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" 
       alt="heroku" 
-      height="30em"
+      height="20em"
     /> 
   </a> 
   <a href="https://www.notion.so/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" 
       alt="notion" 
-      height="30em"
+      height="20em"
     /> 
   </a> 
   <a href="https://trello.com/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" 
       alt="trello" 
-      height="30em"
+      height="20em"
     /> 
   </a> 
   <a href="https://miro.com/pt/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" 
       alt="miro" 
-      height="30em"
+      height="20em"
     /> 
   </a> 
   <a href="https://www.figma.com/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
       alt="figma" 
-      height="30em"
+      height="20em"
     /> 
   </a> 
 </p>
