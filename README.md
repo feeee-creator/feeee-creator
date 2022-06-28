@@ -177,87 +177,58 @@
     <img 
       src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" 
       alt="eslint" 
-      width="80" 
-      height="20"
+      height="20em"
     /> 
   </a> 
   <a href="https://heroku.com" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" 
       alt="heroku" 
-      width="80" 
-      height="20"
+      height="20em"
     /> 
   </a> 
   <a href="https://www.notion.so/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" 
       alt="notion" 
-      width="80" 
-      height="20"
+      height="20em"
     /> 
   </a> 
   <a href="https://trello.com/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" 
       alt="trello" 
-      width="80" 
-      height="20"
+      height="20em"
     /> 
   </a> 
   <a href="https://miro.com/pt/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" 
       alt="miro" 
-      width="80" 
-      height="20"
+      height="20em"
     /> 
   </a> 
   <a href="https://www.figma.com/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
       alt="figma" 
-      width="80" 
-      height="20"
-    /> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank"> 
-    <img 
-      src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" 
-      alt="blender" 
-      width="80" 
-      height="20"
-    /> 
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img 
-      src="https://aleen42.github.io/badges/src/illustrator.svg" 
-      alt="illustrator" 
-      width="100" 
-      height="20"
-    /> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img 
-      src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" 
-      alt="photoshop" 
-      width="100" 
-      height="20"
+      height="20em"
     /> 
   </a> 
 </p>
 
 <h3 align="left">📊 Stats:</h3>
-<div>
+<div align="center">
   <a href="https://github.com/Feelpe" target="_blank"> 
     <img 
       src="https://github-readme-stats.vercel.app/api?username=feelpe&count_private=true&include_all_commits=true&show_icons=true&theme=panda"
       alt="user stats" 
-      height="180em"
+      height="200em"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&langs_count=7&theme=panda&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&langs_count=8&show_icons=true&theme=panda&layout=compact" 
       alt="repo stats" 
-      height="180em"
+      height="200em"
     />
+  </a>
 </div>
