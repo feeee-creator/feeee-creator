@@ -177,42 +177,42 @@
     <img 
       src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" 
       alt="eslint" 
-      height="20em"
+      height="30em"
     /> 
   </a> 
   <a href="https://heroku.com" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" 
       alt="heroku" 
-      height="20em"
+      height="30em"
     /> 
   </a> 
   <a href="https://www.notion.so/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" 
       alt="notion" 
-      height="20em"
+      height="30"
     /> 
   </a> 
   <a href="https://trello.com/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" 
       alt="trello" 
-      height="20em"
+      height="30em"
     /> 
   </a> 
   <a href="https://miro.com/pt/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" 
       alt="miro" 
-      height="20em"
+      height="30em"
     /> 
   </a> 
   <a href="https://www.figma.com/" target="_blank"> 
     <img 
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
       alt="figma" 
-      height="20em"
+      height="30em"
     /> 
   </a> 
 </p>
@@ -223,12 +223,12 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=feelpe&count_private=true&include_all_commits=true&show_icons=true&theme=panda"
       alt="user stats" 
-      height="200em"
+      height="190em"
     />
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&langs_count=8&show_icons=true&theme=panda&layout=compact" 
       alt="repo stats" 
-      height="200em"
+      height="190em"
     />
   </a>
 </div>
