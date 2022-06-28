@@ -10,7 +10,7 @@
 - 📫 How to reach me **felipesscreator@gmail.com / +55 (11) 953988964**
 
 <h3 align="left">🤝 Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/felipe-creator" target="_blank">
     <img 
       align="center" 
@@ -141,13 +141,6 @@
     <img 
       src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" 
       alt="prisma" 
-      height="25em"
-    /> 
-  </a> 
-  <a href="https://postman.com" target="_blank"> 
-    <img 
-      src="https://img.shields.io/badge/Postman-FC8019?style=for-the-badge&logo=Postman&logoColor=white" 
-      alt="postman" 
       height="25em"
     /> 
   </a> 
