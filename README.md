@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Felipe Silva</h1>
+<h1 align="center">Hi, I'm Felipe Silva</h1>
 <h3 align="center">A fulltack developer junior from Brazil 🧑‍💻</h3>
 
-- 👨‍💻 I’m currently working on [My Portfolio](https://felipe.vercel.app/) and another projects
+- 👨‍💻 I’m currently working on [My Portfolio](https://felipe.vercel.app/) and other projects available at [Repositories](https://github.com/Feelpe?tab=repositories).
 
-- 📖 I’m currently learning **Node, Javascript, Python, Nest, React, Next.**
+- 📖 I’m currently learning many things to create a base of programming and technology.
 
-- 📦 All of my projects are available at [Repositories](https://github.com/Feelpe?tab=repositories)
+- 🔎 I’m looking for a job to specialize me.
 
-- 📫 How to reach me **felipesscreator@gmail.com / (11) 953988964**
-
-- 🙋‍♂️ Fun fact **I like games and want to make one someday**
+- 📫 How to reach me **felipesscreator@gmail.com / +55 (11) 953988964**
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="center">
