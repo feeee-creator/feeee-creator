@@ -7,3 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#2327)
 
 [![Repositories Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&langs_count=4&theme=panda&layout=compact)](https://github.com/Feelpe?tab=repositories)
+
+| Syntax      | Test Text     |
+| :---        |          ---: |
+| Header      | Here's this   |
+| Paragraph   | And more      |
