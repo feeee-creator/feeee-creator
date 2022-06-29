@@ -10,5 +10,3 @@
 
 | Syntax      | Test Text     |
 | :---        |          ---: |
-| Header      | Here's this   |
-| Paragraph   | And more      |
