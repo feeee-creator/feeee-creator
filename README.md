@@ -1,4 +1,6 @@
-# 🤝 Connect with me:
+# Hi 👋, Welcome to my profile
+
+## 🤝 Connect with me:
 
 ### 📫 Phone number: +55(11)953988964
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-creator/)
