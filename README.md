@@ -1,7 +1,6 @@
 # Hi 👋, Welcome to my profile!
-I'm a junior Full Stack developer from Brazil.\
-I'm focused on learning programming logic and clean code concepts.\
-I am looking for a job opportunity to specialize.
+I'm a junior Full Stack developer from Brazil focused on learning programming logic and clean code concepts.\
+I'm looking for my first job opportunity to specialize.
 
 ## 🤝 Connect with me:
 
