@@ -2,7 +2,7 @@
 I'm a junior Full Stack developer from Brazil focused on learning programming logic and clean code concepts.\
 I'm looking for my first job opportunity to specialize.
 
-[![Repositories Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&langs_count=4&theme=panda&layout=compact)](https://github.com/Feelpe?tab=repositories)
+[![Repositories Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&langs_count=4&theme=omni&layout=compact)](https://github.com/Feelpe?tab=repositories)
 
 ## 🤝 Connect with me:
 
