@@ -1,7 +1,6 @@
 # Hi 👋, Welcome to my profile!
 
 I'm a junior Full Stack developer from Brazil focused on learning programming logic and clean code concepts.\
-I developed some solutions to problems looking for an approach that benefits both the client and me.
 
 ## 🤝 Connect with me:
 
