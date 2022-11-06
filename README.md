@@ -12,10 +12,10 @@ I'm a Pleno FullStack developer. Currently I,m looking for a job opportunity and
 
 ## 🧰 My current Tools:
 
-📲 Front-end Mobile with React Native 
-🌎 Front-end Web with React 
-📡 Back-end with NodeJS 
-🛠️ Typescript 
+📲 Front-end Mobile with React Native \
+🌎 Front-end Web with React \
+📡 Back-end with NodeJS \
+🛠️ Typescript \
 🧰 And more...
 
 [![Repositories Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&langs_count=4&theme=calm&layout=compact)](https://github.com/Feelpe?tab=repositories)
