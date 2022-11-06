@@ -18,4 +18,4 @@ I'm a Pleno FullStack developer. Currently I,m looking for a job opportunity and
 🛠️ Typescript \
 🧰 And more...
 
-[![Repositories Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&langs_count=6&theme=calm&layout=compact)](https://github.com/Feelpe?tab=repositories)
+[![Repositories Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=feelpe&count_private=true&langs_count=10&theme=calm&layout=compact)](https://github.com/Feelpe?tab=repositories)
