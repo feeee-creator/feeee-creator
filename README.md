@@ -1,6 +1,6 @@
 # Hi 👋, I'm Felipe
 
-I'm a Mid-level FullStack developer. Currently I,m looking for a job opportunity and working on some personal projects with you can find [here](https://github.com/Feelpe?tab=repositories).
+I'm a junior FullStack developer. Currently I,m looking for a job opportunity and working on some personal projects with you can find [here](https://github.com/Feelpe?tab=repositories).
 
 ## 🤝 Contact me elsewhere:
 
