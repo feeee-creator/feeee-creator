@@ -10,5 +10,4 @@ I'm a Full Stack developer. I ❤️ learning, technology, and applying knowledg
 🌎 Front-end Web with React \
 📲 Front-end Mobile with React Native \
 📡 Back-end with NodeJS \
-🛠️ FullStach applications with Next.js \
-
+🛠️ FullStach applications with Next.js 
